@@ -1,0 +1,185 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+/*header top text start*/
+.header-top-text{
+    background: #000;
+    padding: 5px 0;
+}
+.top-text {
+    font-size: 12px;
+    color: #fff;
+    margin-top: 8px;
+}
+@media screen and (max-width: 767px){
+.top-text {
+    text-align: center;
+}
+}
+.topbar-links {
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+}
+@media screen and (max-width: 767px){
+.topbar-links {
+    text-align: center;
+    margin-top: 5px;
+}
+}
+.topbar-links li {
+    display: inline-block;
+    padding: 0 12px;
+    position: relative;
+}
+.topbar-links li:before {
+    content: '|';
+    position: absolute;
+    right: -2px;
+    top: 1px;
+    color: #ffffff;
+    font-size: 10px;
+}
+.topbar-links li:last-child:before {
+    content: '';
+}
+.topbar-links li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.topbar-links i {
+    padding-right: 5px;
+    color: #fdc236;
+}
+/*header top text end*/
+
+/* header logo start*/
+@media screen and (max-width: 767px){
+.logo img {
+    margin: 0px auto;
+}
+}
+/* header logo end*/
+
+/*header start*/
+.nevigationwrape{
+	float:right;
+}
+@media only screen and (max-width: 768px){
+.nevigationwrape{
+	float:none;
+}
+}
+.nevigationwrape .navbar-default{
+    background: none;
+    border: none;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+.nevigationwrape .navbar-default .collapse li a.active {
+    color: #FFF;
+    background: #00afef;
+}
+.nevigationwrape .navbar-default .collapse li a {
+    padding: 30px 12px;
+    font-size: 14px;
+    color: #231f20;
+    font-weight: 700;
+}
+@media only screen and (max-width: 768px){
+    .nevigationwrape .navbar-default .collapse li a {
+         width: 100%;
+    }
+}
+@media only screen and (max-width: 990px){
+.nevigationwrape .navbar-default .collapse li a {
+    padding: 14px 16px;
+}
+}
+.nevigationwrape .navbar-default .collapse li a:hover{
+    color: #FFF;
+    background: #000;
+}
+@media only screen and (max-width: 768px){
+.nevigationwrape .navbar-default .collapse li a:hover{
+    color: #FFF;
+    background: #000;
+}
+}
+/*header end*/
+/* sidnav start*/
+.btnclrside .btnclrside1:hover{
+	border-color:#00afef;
+	background: #00afef;
+	color:#fff;
+}
+/*sidnav end*/
+/* rooms start*/
+.btnclr1 .btnclr{
+	border-color:#00afef;
+	background: #00afef;
+}
+.btnclr1 .btnclr:hover{
+	border-color:#000;
+	background:#000;
+}
+/*rooms end*/
+.template1{
+	background-color:;
+}
+/* header logo start*/
+.logo1 img{
+	width:50%;
+}
+
+@media screen and (max-width: 767px){
+.logo1 img {
+    margin: 0px auto;
+}
+}
+/* header logo end*/
+
+/* header.php logo start*/
+
+
+@media screen and (max-width: 767px){
+.logo1 a img {
+    margin: 0px auto;
+}
+}
+/* header.php logo end*/
+
+footer{
+      background-color:black;
+      color: white;
+      padding: 15px;
+	  text-align:center;
+    }
+
+/*inner content start*/
+.inner-content {
+    padding: 50px 0;
+}
+.inner-content ul  {
+    list-style: none;
+    margin-top: 15px;
+    padding: 0px;
+}
+.inner-content ul li{
+	list-style:none;
+}
+.gallery-image {
+	margin-bottom:30px;
+}
+.gallery-image a img {
+    border: 1px solid #fff;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.16);
+	height: 187px;
+    width: 240px;
+}
+
+/*inner content end*/

@@ -1,0 +1,143 @@
+
+
+Filter by:
+Your Budget
+Rs. 0 - Rs. 3,800 per night 274
+Rs. 3,800 - Rs. 7,600 per night 390
+Rs. 7,600 - Rs. 11,000 per night 127
+Rs. 11,000 - Rs. 15,000 per night 48
+Rs. 15,000 + per night 23
+Popular
+Breakfast included 214
+Hotels 112
+Parking 533
+Double bed 312
+Value Deal 186
+Very Good: 8+ 442
+Apartments 122
+Free WiFi 535
+Star Rating
+2 stars 13
+3 stars 232
+4 stars 49
+5 stars 6
+Unrated 250
+Review Score
+Wonderful: 9+ 197
+Very Good: 8+ 442
+Good: 7+ 507
+Pleasant: 6+ 520
+No rating 12
+Availability
+Only show available properties
+Deal
+Value Deal 186
+24-Hour Front Desk
+Front Desk Open 24/7 52
+Free Cancellation & More
+Free cancellation 249
+Book without credit card 255
+No prepayment 396
+Beach Access
+Beach 40
+Meals
+Breakfast included 214
+Breakfast & dinner included 5
+Kitchen facilities 244
+Property Type
+Guesthouses 254
+Apartments 122
+Hotels 112
+Bed and Breakfasts 12
+Hostels 11
+Country Houses 11
+Lodges 7
+Vacation Homes 6
+Adults-only Properties 4
+Homestays 3
+Villas 2
+Resort Villages 2
+Farm Stays 2
+Campgrounds 2
+Motels 2
+Chalets 1
+Resorts 1
+Bed Preference
+Twin beds 272
+Double bed 312
+Fun Things To Do
+Fishing 197
+Skiing 144
+Bicycle Rental (additional charge) 136
+Hiking 405
+Cycling 364
+Facility
+Free WiFi 535
+Parking 533
+Airport Shuttle 86
+Fitness Center 28
+Non-Smoking Rooms 461
+Swimming Pool 70
+Spa 38
+Family Rooms 364
+Pet Friendly 382
+Facilities for Disabled Guests 95
+Restaurant 211
+Room Service 63
+Room Facility
+Bathtub 114
+Electric kettle 271
+Flat-screen TV 256
+Kitchen/Kitchenette 244
+Tea/Coffee maker 97
+Show all 7
+Neighborhood
+Český Krumlov City-Centre 66
+Best areas outside center 39
+Chain
+Asten Hotels 1
+Clarion 1
+EA Hotels 2
+Orea Hotels
+
+
+Room details:
+
+
+				Single is definitely for one person and usually features a single bed, which is a narrow, one person bed. 
+				A twin room usually features two one person beds, and a double room has one double bed (a bed for 2 people).
+				
+				Free WiFi is featured throughout the property.
+			
+				All units include a seating and dining area. 
+				There is also a kitchen, fitted with an oven and fridge. 
+				A stovetop and kettle are also provided.
+				There is a private bathroom with a bath or shower and free toiletries in each unit.
+				Bed linen is available.
+
+				You can play tennis at the property, and the area is popular for fishing. 
+				Gmünd is 15 km from Ubytovani Jana, while Nové Hrady is 13 km away. 
+
+				If you want to request something specific, you can do that in the next step before you book. 
+				After you book, we'll provide details so you can contact your host directly.
+
+
+
+
+
+      <div class="well">
+	<img class="img-thumbnail"  src="image/1.jpg" alt="1">
+      </div>
+      <div class="well">
+	<img class="img-thumbnail"  src="image/1.jpg" alt="1">
+      </div>
+	        <div class="well">
+	<img class="img-thumbnail"  src="image/1.jpg" alt="1">
+      </div>
+	        <div class="well">
+	<img class="img-thumbnail"  src="image/1.jpg" alt="1">
+      </div>
+	  
+	  
+	  
+	  Pixels are an absolute unit of measure. Percents are relative to some other value.

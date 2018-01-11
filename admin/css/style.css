@@ -1,0 +1,152 @@
+/*header top text start*/
+.header-top-text{
+    background: #000;
+    padding: 5px 0;
+}
+.top-text {
+    font-size: 12px;
+    color: #fff;
+    margin-top: 8px;
+}
+@media screen and (max-width: 767px){
+.top-text {
+    text-align: center;
+}
+}
+.topbar-links {
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+}
+@media screen and (max-width: 767px){
+.topbar-links {
+    text-align: center;
+    margin-top: 5px;
+}
+}
+.topbar-links li {
+    display: inline-block;
+    padding: 0 12px;
+    position: relative;
+}
+.topbar-links li:before {
+    content: '|';
+    position: absolute;
+    right: -2px;
+    top: 1px;
+    color: #ffffff;
+    font-size: 10px;
+}
+.topbar-links li:last-child:before {
+    content: '';
+}
+.topbar-links li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.topbar-links i {
+    padding-right: 5px;
+    color: #fdc236;
+}
+/*header top text end*/
+
+/* header logo start*/
+@media screen and (max-width: 767px){
+.logo img {
+    margin: 0px auto;
+}
+}
+/* header logo end*/
+
+/*header start*/
+.nevigationwrape{
+	float:right;
+}
+@media only screen and (max-width: 768px){
+.nevigationwrape{
+	float:none;
+}
+}
+.nevigationwrape .navbar-default{
+    background: none;
+    border: none;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+.nevigationwrape .navbar-default .navbar-nav li a.active {
+    color: #FFF;
+    background: #00afef;
+}
+.nevigationwrape .navbar-default .navbar-nav li a {
+    padding: 30px 12px;
+    font-size: 14px;
+    color: #231f20;
+    font-weight: 700;
+}
+@media only screen and (max-width: 768px){
+    .nevigationwrape .navbar-default .navbar-nav li a {
+         width: 100%;
+    }
+}
+@media only screen and (max-width: 990px){
+.nevigationwrape .navbar-default .navbar-nav li a {
+    padding: 14px 16px;
+}
+}
+.nevigationwrape .navbar-default .navbar-nav li:hover a{
+    color: #FFF;
+    background: #000;
+}
+/*header end*/
+
+
+
+.template1{
+	background-color:;
+}
+.logo1 img{
+	width:50%;
+}
+footer{
+      background-color:black;
+      color: white;
+      padding: 15px;
+	  text-align:center;
+    }
+
+/*inner content start*/
+.inner-content {
+    padding: 50px 0;
+}
+.inner-content ul  {
+    list-style: none;
+    margin-top: 15px;
+    padding: 0px;
+}
+.inner-content ul li{
+	list-style:none;
+}
+.gallery-image {
+	margin-bottom:30px;
+}
+.gallery-image img {
+    border: 1px solid #fff;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.16);
+}
+img {
+    max-width: 100%;
+}
+/*inner content end*/
+
+
+
+
+.headerimg{
+	    background: url(../image/cafe-186c8160fa.jpg) no-repeat;
+    padding: 287px 0;
+    background-size: cover;
+}
